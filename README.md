@@ -1,5 +1,5 @@
 # Tageslosung-Bot
-Tageslosung-Bot für Discord (Die Losungen Losung, Lehrtext und Impuls)
+Tageslosung-Bot für Discord (Die Losungen - Losung, Lehrtext und Impuls)
 
 Welcome to the documentation of Tageslosung. Seriously, the program is so self-explanatory that you don't even need this extraordinary documentary. If you seriously need the help command here, you have not understood the CMD syntax fundamentally. The program offers you the following fabulous possibilities:").queue();
 
